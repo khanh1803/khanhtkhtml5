@@ -1,0 +1,44 @@
+*{
+  
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    
+}
+#container{
+    
+    border: 2px solid black;
+    width: 80%;
+   height: auto;
+    margin-left: 10%;
+}
+#menu > ul > li {
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+  }
+  #menu > ul > li a:hover {
+      font-size: 20px;
+      color: yellow;
+  }
+#menu ul{ 
+   
+ background-color: black;
+    list-style: none;
+    
+}
+ #menu li a{
+     
+     background-color: black;
+    border-radius: 3px;
+     display: block;
+    color: white;
+    padding: 0 10px;
+    line-height: 40px;
+    text-decoration: none;
+    
+}
+footer{
+    
+    background-color: gray;
+}
